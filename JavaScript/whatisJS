@@ -1,0 +1,19 @@
+#JavaScript Overview
+##What is JavaScript?
+JavaScript is a scripting language
+###具有以下特点
+cross-platform , object-oriemted , small , ligthweight
+
+不是独立用作的语言，但可以被设计后嵌入到products and applications
+
+###contains a core set of objects and language elements
+ Array , date , math ;
+
+ aperators , contorl strustures , statements
+
+###LiveConnect functionality
+从 JavaScript 中，您可以创建 Java 对象并访问它们的public methods和fields。
+从 Java 中，也可以访问 JavaScript 的object，properties和methods。
+
+##JavaScript and Java
+###
